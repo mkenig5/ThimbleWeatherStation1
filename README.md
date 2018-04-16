@@ -1,1 +1,0 @@
-# ThimbleWeatherStation1

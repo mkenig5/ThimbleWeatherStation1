@@ -4,7 +4,7 @@
 
    https://learning.thimble.io/modules/weather-station-1
 
-   Seeduino connections:
+   Seeeduino connections:
      D4  Button
      D8  LED Bar Graph
      I2C LCD
